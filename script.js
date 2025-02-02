@@ -1,7 +1,7 @@
 const messages = [
     "lah?",
     "ayaw mo?",
-    "too bad i dont accept nos",
+    "too bad i dont accept no's",
     "dont you love me?",
     "BB",
     "STOP PRESSING NO",
